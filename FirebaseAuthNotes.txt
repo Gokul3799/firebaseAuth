@@ -1,0 +1,7 @@
+REACT - Firebase AUTH
+
+Firebase steps:
+
+1. Create an app
+2. Enable email as sign in method
+3. Authntication -> web -> create a new web app -> The config data will be provided
